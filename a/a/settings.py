@@ -87,7 +87,3 @@ ROBOTSTXT_OBEY = True
 FEED_FORMAT = 'csv'
 FEED_URI = './nct.csv'
 DOWNLOAD_DELAY = 0.05
-#HTTPCACHE_EXPIRATION_SECS = 0
-#HTTPCACHE_DIR = 'httpcache'
-#HTTPCACHE_IGNORE_HTTP_CODES = []
-#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
